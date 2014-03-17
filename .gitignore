@@ -1,0 +1,12 @@
+# Editor backup files
+*~
+
+# Eclipse project info
+.settings
+.project
+
+# Ruby
+/Gemfile.lock
+
+# Jekyll
+/_site
