@@ -1,5 +1,12 @@
 encoding: utf-8
 markdown: kramdown
+permalink: /blog/:categories/:year/:month/:day/:title.html
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
 prose:
   media: "files"
   siteurl: "http://gluxon.github.io"

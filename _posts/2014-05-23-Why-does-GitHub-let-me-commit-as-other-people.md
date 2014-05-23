@@ -1,6 +1,9 @@
-## Why does GitHub let me commit as other people?
+---
+layout: default
+title: Blogging Like a Hacker
+---
 
-# Commits From Anyone
+## Why does GitHub let me commit as other people?
 
 I was investigating an issue on one of my team's repositories today. While I
 had never entered my password to complete a Git push, my GitHub account was
