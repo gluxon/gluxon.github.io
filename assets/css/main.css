@@ -21,7 +21,7 @@ h4 { font-weight: 300; }
 img { max-width: 100%; }
 
 #content article {
-  padding: 0 5%;
+  margin: auto; padding: 0 5%;
   max-width: 800px;
 }
 
