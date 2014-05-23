@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Blogging Like a Hacker
+title: "Why does GitHub let me commit as other people?"
+published: true
 ---
 
 ## Why does GitHub let me commit as other people?
