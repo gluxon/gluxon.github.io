@@ -29,3 +29,13 @@ footer {
   margin: auto; padding: 0 5%;
   max-width: 800px;
 }
+
+blockquote {
+  font-style: italic;
+}
+
+blockquote:before {
+  content: " \201c";
+  font-size: 48px; line-height: 48px;
+  position: absolute; margin-left: -32px;
+}

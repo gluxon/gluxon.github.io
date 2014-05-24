@@ -31,3 +31,17 @@ advantage of, I present to you a harmless debate among GitHub staff. (Be sure to
 look at the commit log!)
 
 [![](http://i.imgur.com/S0h6MsM.png)](https://github.com/gluxon/CommitsFromAnyone/commits/master)
+
+
+**Follow-up #1 8:23 PM**: As [discussed on Hacker News](https://news.ycombinator.com/item?id=7792026),
+this is arguably not a security issue. Regardless, it does have the potential to
+cause confusion within a project or even *harm* another user by frame.
+
+**Follow-up #2 8:30 PM**: I focused too much on the cool factor and not enough
+on the actual problem. This quote from @davidbanham sums up my feelings and
+thoughts exactly.
+
+> It's a useful feature in git, but a bug in github.
+> In my company's git repo, yes, I want full control.
+> In a public forum where lots of my public image is tied up, I don't want people to be able to impersonate me.
+> It's a tricky one to solve, though. Not sure how it would be achieved without demanding that every commit is GPG signed.
