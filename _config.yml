@@ -1,5 +1,4 @@
 encoding: utf-8
-markdown: kramdown
 permalink: /blog/:categories/:year/:month/:day/:title.html
 defaults:
   -
@@ -9,4 +8,4 @@ defaults:
       layout: "default"
 prose:
   media: "files"
-  siteurl: "http://gluxon.github.io"
+  siteurl: "https://gluxon.com"
